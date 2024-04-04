@@ -70,7 +70,7 @@ const Hero = () => {
           applications. My passion for coding propels me to remain abreast of the latest industry
           trends. With expertise spanning both frontend and backend technologies, I engineer
           innovative and seamless solutions. Collaborative environments are where I thrive,
-          constantly seeking opportunities to enhance my skills..
+          constantly seeking opportunities to enhance my skills.
         </p>
         /* <p>
         I’m a software engineer specializing in building (and occasionally designing) exceptional
