@@ -65,11 +65,14 @@ const Hero = () => {
   const four = (
     <>
       {
-        <p>I'm Software Developer with building cutting-edge web applications.
-           Passionate about coding and staying up-to-date with the latest industry trends.
-           Possess a robust skill set in both frontend and backend technologies ensuring the development of seamless and innovative solutions.
-           I thrive in collaborative environments and seeking opportunities to enhance my skills.</p>
-      /* <p>
+        <p>
+          I'm software developer based in Germany, dedicated to crafting cutting-edge web
+          applications. My passion for coding propels me to remain abreast of the latest industry
+          trends. With expertise spanning both frontend and backend technologies, I engineer
+          innovative and seamless solutions. Collaborative environments are where I thrive,
+          constantly seeking opportunities to enhance my skills..
+        </p>
+        /* <p>
         I’m a software engineer specializing in building (and occasionally designing) exceptional
         digital experiences. Currently, I’m focused on building accessible, human-centered products
         at{' '}
@@ -77,15 +80,12 @@ const Hero = () => {
           Upstatement
         </a>
         .
-      </p> */}
+      </p> */
+      }
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="/resume.pdf"
-      target="_blank"
-      rel="noreferrer">
+    <a className="email-link" href="/resume.pdf" target="_blank" rel="noreferrer">
       Check out my resume!
     </a>
   );
