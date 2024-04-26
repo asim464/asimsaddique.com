@@ -1,0 +1,92 @@
+{
+  "data": {
+    "featured": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Petition Management System",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABJ0AAASdAHeZh94AAABYElEQVQoz5WRWY6kMBBE6yBgG7ywullsloK5/7XeyJZK1V0fs3yEMCkcvIh8aK2xbU/cdu77yXEczLPHWENjLUIIyrL8Zz3quqYoCtqm475+cd8367owtwbvHGWZDIv/MdQoJaiUwlqHtRZjDKZS1KpCSIGUEpEkykz8Jz1S5KqqmKaJEALrurLvkX0PhG1n/BroBk9tDCKR/qWCHFkpxbZthBBzh+d5cj13jvNkXWf60ePaFlWpfOkHVTL6TvgynOc5a1kWYoyEGLmegXmN6KZDiFeP7z7Fh/kPwuu6MlmMgT1THlzXyRIjtm1yx6ma9H16SqUyWVpo0ov8UesaJSXjODIMA957vqaJZfLMfmDxA33f5XnSNPZ0bcMwjHR9n5fYOIuU3wjT37R1uMbRdw3WGupKUUmRpaTIZFlKZoB0TgtNMka/DdMgocpKo12LbRxNjpjivLf3ilZ8vn9E/g35CBxfEM6OSQAAAABJRU5ErkJggg=="
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/d6b6e9e8ad2eb2ca48dd06bae885ceb2/8bec5/halcyon.png",
+                        "srcSet": "/static/d6b6e9e8ad2eb2ca48dd06bae885ceb2/3a042/halcyon.png 175w,\n/static/d6b6e9e8ad2eb2ca48dd06bae885ceb2/8ceb9/halcyon.png 350w,\n/static/d6b6e9e8ad2eb2ca48dd06bae885ceb2/8bec5/halcyon.png 700w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/d6b6e9e8ad2eb2ca48dd06bae885ceb2/ab4e6/halcyon.avif 175w,\n/static/d6b6e9e8ad2eb2ca48dd06bae885ceb2/318e8/halcyon.avif 350w,\n/static/d6b6e9e8ad2eb2ca48dd06bae885ceb2/646da/halcyon.avif 700w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/d6b6e9e8ad2eb2ca48dd06bae885ceb2/32753/halcyon.webp 175w,\n/static/d6b6e9e8ad2eb2ca48dd06bae885ceb2/a5fbc/halcyon.webp 350w,\n/static/d6b6e9e8ad2eb2ca48dd06bae885ceb2/3fb8b/halcyon.webp 700w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 344
+                  }
+                }
+              },
+              "tech": ["VS Code", "Django", "Vue.Js", "PostgreSql"],
+              "github": "https://github.com/asim464/Petition-Management-System",
+              "external": null
+            },
+            "html": "<p>FullStack web application built in Vue.Js and Django .Postgresql is used as a database for this project. This project handles the flow of petitions.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Facilitation Portal",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABJ0AAASdAHeZh94AAAB0UlEQVQ4y42USW7cMBREfQ9xHkVSQw9utxvxIsj97/QCMYKdwO12FgWRCxWq/n/Sk8sTrh4Z60SrhZwSzhmUkkilULuk/Dg/0pOUAl9P+OWVPJ9J6wtxPlHaRA2OFj1TCv3prUEIiZRf60krhdYa4xPjtFIOz+TlTK4Nr2U3yd7irMFog9YSpXVPf9fQWIs2Bq0kxjpcORLqSioTrVSmFElBM46JmitjNPhc0NZ3g0+VzWamNdaabuSnZ3w7oV1E2YCQEiEEYhgQYmAQkkGId7PPCbuhwoVEWK6M0wHvI8YHnNFEZwnO4dKI87Hfs3f9nXum7wk3hbJQr79Ih1fa5Y22HMheE7zvNV2IJGcZw7+GnypvUlISx8rp7SfXpfDj0JhL7il7RTEgt+p3Kt+dYZ+j87hUCCH2VMkZ7L7Re8w9XEpHx1hiXWjTwlRrx+NjRmLXnmwzeGTYq2vdOTxdb1zOR15vN9Z1wTmLDbmjYnz8w+H/VN7OeYP7eKHNM8sYWerIWhI+xG6orUMp/V3lDWzVtximC3E+k9u6gx1IQVHGRBsbY9L4XNEufAe2JbYjYX7pYG/VtA37J/Y3ax/nLyubnUFf1h2P4X0Jj/4s9xL+Bl3jodhlEnAWAAAAAElFTkSuQmCC"
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/3a2d3bfc202bfc891172363d75ef8843/3bd79/demo.png",
+                        "srcSet": "/static/3a2d3bfc202bfc891172363d75ef8843/fe11f/demo.png 175w,\n/static/3a2d3bfc202bfc891172363d75ef8843/d01ed/demo.png 350w,\n/static/3a2d3bfc202bfc891172363d75ef8843/3bd79/demo.png 700w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/3a2d3bfc202bfc891172363d75ef8843/0b4ad/demo.avif 175w,\n/static/3a2d3bfc202bfc891172363d75ef8843/2ac1b/demo.avif 350w,\n/static/3a2d3bfc202bfc891172363d75ef8843/19e93/demo.avif 700w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/3a2d3bfc202bfc891172363d75ef8843/e35d6/demo.webp 175w,\n/static/3a2d3bfc202bfc891172363d75ef8843/15121/demo.webp 350w,\n/static/3a2d3bfc202bfc891172363d75ef8843/ef7dc/demo.webp 700w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 531
+                  }
+                }
+              },
+              "tech": ["Vue.Js", "Styled Components", "Django", "Javascript", "HTML & CSS"],
+              "github": "https://github.com/asim464/Facilitation-Portal",
+              "external": null
+            },
+            "html": "<p>FullStack web application built in vue Js and Django to facilitate the people.</p>"
+          }
+        }
+      ]
+    }
+  }
+}

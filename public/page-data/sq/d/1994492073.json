@@ -1,0 +1,13 @@
+{
+  "data": {
+    "site": {
+      "siteMetadata": {
+        "defaultTitle": "Asim Saddique",
+        "defaultDescription": "Asim Saddique is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.",
+        "siteUrl": "https://asimsaddique.vercel.app",
+        "defaultImage": "/og.png",
+        "twitterUsername": ""
+      }
+    }
+  }
+}

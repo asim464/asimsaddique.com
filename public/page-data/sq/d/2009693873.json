@@ -1,0 +1,56 @@
+{
+  "data": {
+    "jobs": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Software Developer",
+              "company": "Government Of Pakistan",
+              "location": "Pakistan",
+              "range": "Oct 2022 - March 2023",
+              "url": "https://mod.gov.pk/"
+            },
+            "html": "<ul>\n<li>Developed a full-stack web application using Django, VueJs, PostgreSQL and Docker</li>\n<li>Developed REST APIs using Django and PostgreSQL to store data</li>\n<li>Explored ways to make interactive design choices for new projects</li>\n<li>Contributed extensively to the creation of new defence projects</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Junior Software Developer",
+              "company": "OneNetwork",
+              "location": "Rawalpindi, Pakistan",
+              "range": "Feburay - October 2022",
+              "url": "https://onenetwork.pk/"
+            },
+            "html": "<ul>\n<li>Developed FullStack web application using Vue.js and Flask</li>\n<li>Designed and managed the database architecture, ensuring efficient storage of data</li>\n<li>Developed RestApis in Django and utilized VueJs to create interactive User Interface Design</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "AI Intern",
+              "company": "NRTC",
+              "location": "Haripur, Pakistan",
+              "range": "July - October 2021",
+              "url": "https://www.nrtc.com.pk/"
+            },
+            "html": "<ul>\n<li>Gained Hands on experience with Deep learning Models</li>\n<li>Developed Neural Networks in Python to classify Radar Signals</li>\n<li>Contributed to the ML Classifier Project by building CNN</li>\n<li>Contributed to the development of the algorithm resulted in 20 percent improvement</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Professional Training",
+              "company": "NIE",
+              "location": "Islamabad, Pakistan",
+              "range": "September 2020 - March 2020",
+              "url": "https://nie.gov.pk/"
+            },
+            "html": "<ul>\n<li>App Development Using Android Studio</li>\n<li>Designed IOT(Internet Of things) Based Smart Home Energy Monitoring System</li>\n<li>Python -Learning by Numpy, Matplotlib,Tesnsorflow,Pandas, ScikitLearn, keras</li>\n</ul>"
+          }
+        }
+      ]
+    }
+  }
+}
